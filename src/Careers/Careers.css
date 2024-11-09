@@ -1,0 +1,164 @@
+.careers{
+   width: 100vw;
+   height: 250vh;
+   background-color: aqua; 
+}
+.careers1{
+   width: 100vw;
+   height: 100vh;
+   background-color: rgb(232, 228, 228);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.careers11{
+   width: 80%;
+   height: 80%;
+   display: flex;
+   flex-direction: column;
+   gap: 5px;
+}
+.careers111{
+   width: 100%;
+   height: 10%;
+   display: flex;
+   align-items: center;
+   font-size: 45px;
+   color: gray;
+}
+.careers112{
+   width: 3%;
+   height: 0.8%;
+   background-color: red;
+}
+.careers113{
+   width: 100%;
+   height: 88%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   gap: 40px;
+}
+.careers1131{
+   width: 48%;
+   height: 90%;
+}
+.careers1131 img{
+  width: 100%;
+  height: 100%; 
+}
+.careers1132{
+   width: 48%;
+   height: 90%;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+}
+.careers11321{
+   width: 100%;
+   height: 10%;
+   display: flex;
+   align-items: center;
+   font-size: 28px;
+   color: rgb(77, 76, 76);
+}
+.careers11322{
+   width: 70%;
+   height: 22%;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   font-size: 17px;
+   gap: 15px;
+   color: rgb(130, 127, 127);
+}
+.careers2{
+  width: 100%;
+  height: 60vh;
+  background-color: rgb(206, 197, 197);
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.careers21{
+   width: 80%;
+   height: 60%; 
+}
+.careers211{
+   width: 100%;
+   height: 20%; 
+   display: flex;
+   align-items: flex-start;
+   font-size: 45px;
+   color: rgb(99, 98, 98);
+}
+.careers212{
+   width: 3%;
+   height: 1.5%;
+   background-color: red; 
+}
+.careers213{
+   width: 100%;
+   height: 80%;
+   display: flex;
+   align-items: flex-end; 
+}
+.careers2131{
+   width: 90%;
+   height: 90%;
+   display: flex;
+   justify-content: space-between; 
+}
+.careers21311{
+   width: 24%;
+   height: 80%;
+   background-color: white;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column; 
+   gap: 15px;
+}
+.careers213111{
+   width: 80%;
+   height: 25%; 
+   display: flex;
+   align-items: center;
+}
+.careers213111 img{
+  width: 60px;
+  height: 60px; 
+}
+.careers213112{
+   width: 80%;
+   height: 30%;
+   display: flex;
+   align-items: center;
+   font-size: 18px;
+   color: rgb(143, 138, 138);
+}
+.careers3{
+  width: 100%;
+  height: 40vh;
+  background-color: rgb(242, 235, 235);
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.careers1111{
+  width: 100%;
+  height: 20%;
+  font-size: 35px;
+  color: gray; 
+}
+.careers1113{
+   width: 60%;
+   height: 40%;
+   display: flex;
+   align-items: center;
+   font-size: 20px;
+   color: rgb(162, 153, 153); 
+ }
+ .spn{
+   color: red;
+ }

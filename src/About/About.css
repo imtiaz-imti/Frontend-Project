@@ -1,0 +1,377 @@
+.about{
+    width: 100vw;
+    height: 480vh;
+    position: relative;
+}
+.about1{
+    width: 100%;
+    height: 50vh;
+    position: relative;
+}
+.about1 img{
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(1px) brightness(0.5);
+    -moz-filter: blur(1px) brightness(0.5);
+    -ms-filter: blur(1px) brightness(0.5);
+    -o-filter: blur(1px) brightness(0.5);
+    filter: blur(1px) brightness(0.5);
+}
+.about11{
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about111{
+    width: 80%;
+    height: 50%;
+    color: white; 
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.about1111{
+    width: 50%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+}
+.about1112{
+    width: 3%;
+    height: 3%;
+    background-color: red;
+}
+.about1113{
+    width: 50%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25px;
+}
+.about2{
+  width: 100%;
+  height: 90vh;
+  background-color: rgb(185, 183, 183);
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.about21{
+   width: 60%;
+   height: 80%;
+   position: relative; 
+}
+.about211{
+   width: 50%;
+   height: 100%; 
+}
+.about211 img{
+    width: 100%;
+    height: 100%;
+}
+.about212{
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   top: 0%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-end; 
+}
+.about2121{
+  width: 60%;
+  height: 60%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.about21211{
+   width: 90%;
+   height: 80%; 
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+}
+.about212111{
+    width: 100%;
+    height: 20%;
+    font-size: 45px; 
+    display: flex;
+    align-items: center;
+    color: rgb(129, 127, 127);
+}
+.about212112{
+    width: 6%;
+    height: 2%;
+    background-color: red; 
+}
+.about212113{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    gap: 20px;
+    font-size: 18px;
+    color: rgb(179, 178, 178);
+}
+.about212114{
+    width: 100%;
+    height: 20%; 
+}
+.about212114 img{
+  width: 20%;
+  height: 100%;  
+}
+.about3{
+    width: 100%;
+    height: 170vh;
+    background-color: rgb(206, 81, 81);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about31{
+  width: 80%;
+  height: 80%; 
+  display: flex;
+  flex-direction: column;
+  gap: 5px; 
+}
+.about311{
+  width: 100%;
+  height: 5%;  
+  display: flex;
+  align-items: center;
+  font-size: 45px;
+  color: white;
+}
+.about312{
+    width: 5%;
+    height: 0.5%;
+    background-color: red;  
+}
+.about313{
+    width: 100%;
+    height: 95%;  
+}
+.about3131{
+  width: 100%;
+  height: 25%;
+  display: flex;
+  align-items: center;  
+}
+.about3132{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;  
+}
+.about3133{
+    width: 100%;
+    height: 25%; 
+    display: flex;
+    align-items: center; 
+}
+.about3134{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;  
+}
+.about31311{
+  width: 45%;
+  height: 95%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about313111{
+    width: 90%;
+    height: 90%;
+}
+.about3131111{
+    width: 100%;
+    height: 30%;
+    display: flex;
+}
+.about3131112{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+}
+.about3131112 img{
+  width: 40px;
+  height: 40px;  
+}
+.about3131113{
+    width: 100%;
+    height: 35%;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: rgb(144, 142, 142); 
+}
+.about31311111{
+  width: 15%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;  
+}
+.about31311111 img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.about31311112{
+    width: 95%;
+    height: 100%;  
+}
+.about313111121{
+  width: 100%;
+  height: 70%;
+  display: flex;
+  align-items: center;
+  font-size: 30px; 
+  color: rgb(104, 104, 104); 
+}
+.about313111122{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: flex-start;
+    color: rgb(144, 142, 142); 
+}
+.about4{
+  width: 100%;
+  height: 85vh;
+  background-color: rgb(245, 242, 242);
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+.about41{
+  width: 75%;
+  height: 75%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.about411{
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: flex-end;
+    font-size: 45px; 
+    color: gray; 
+}
+.about412{
+    width: 3%;
+    height: 1%;
+    background-color: red;  
+}
+.about413{
+    width: 100%;
+    height: 89%;
+    display: flex;
+    justify-content: space-between;  
+}
+.about4131{
+    width: 30%;
+    height: 100%;
+    background-color: white;  
+}
+.about41311{
+    width: 100%;
+    height: 78%;  
+}
+.about41311 img{
+  width: 100%;
+  height: 100%;
+}
+.about41312{
+    width: 100%;
+    height: 12%; 
+    display: flex;
+    align-items: flex-end;
+    justify-content: center; 
+    font-size: 30px;
+    color: cadetblue;
+}
+.about41313{
+    width: 100%;
+    height: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    color: gray; 
+}
+.about5{
+    width: 100%;
+    height: 85vh;
+    background-color: rgb(221, 218, 218);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about51{
+    width: 75%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.about511{
+    width: 100%;
+    height: 8%;
+    display: flex;
+    align-items: flex-end;
+    font-size: 45px; 
+    color: gray; 
+}
+.about512{
+    width: 3%;
+    height: 1%;
+    background-color: red;  
+}
+.about513{
+    width: 100%;
+    height: 92%; 
+    display: flex;
+    flex-direction: column;
+    gap: 5px; 
+}
+.about5131{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;  
+}
+.about5132{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;  
+}
+.about51311{
+   width: 24.5%;
+   height: 100%; 
+}
+.about51311 img{
+  width: 100%;
+  height: 100%;  
+}
